@@ -1,0 +1,59 @@
+.busokep {
+    float: left;
+}
+
+.jankelekep{
+    float: right;
+}
+
+body{
+    background-color: #fff5e8;
+    font-family: Arial, sans-serif;
+    color: #522F00;
+    margin-top: 20px;
+}
+
+.container{
+    width: 80%;
+   
+}
+
+.header{
+    height: 250px;
+    background-image: url(maglya.jpg);
+}
+
+h1, h2{
+    color: #b16400;
+}
+
+img{
+    background-color: white;
+    fill: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    width: 15em;
+    border: 2px #ffebd0;
+    
+}
+
+.felsorolas{
+    list-style-image: url(jel.png); 
+}
+.sor{
+    margin-bottom: 25px;
+}
+.footer{
+    height: 60px;
+    background-color: #ffebd0;
+    text-size-adjust: 0.8em;
+    background-image: url(buso_logo.png);
+    background-repeat: no-repeat;
+    padding-top: 20px;
+    background-position-x: right;
+    background-position-y: center;
+    background-size: 55px;
+    
+}
